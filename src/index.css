@@ -1,0 +1,17 @@
+:root {
+  --primary-color: #d65037;
+  --secondary-color: #ece1dbf5;
+  --background-color: #fff5f0;
+  --texte-color: #543b35;
+  background-color: var(--background-color);
+}
+
+h1 {
+  font-family: "Karantina", sans-serif;
+  font-size: 60px;
+}
+
+h3 {
+  font-family: "Inria Sans", sans-serif;
+  font-size: 18px;
+}
