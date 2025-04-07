@@ -2,6 +2,8 @@
 @import "tw-animate-css";
 
 :root {
+  margin-bottom: 10vh;
+
   --primary-color: #d65037;
   --secondary-color: #ece1dbf5;
   --background-color: #fff5f0;
@@ -67,7 +69,8 @@ h1 {
 h2 {
   font-family: "Inria Sans", sans-serif;
   color: var(--texte-color);
-  font-size: 48px;
+  font-size: 44px;
+  font-weight: 1000;
 }
 
 h3 {
