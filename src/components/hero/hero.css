@@ -1,0 +1,19 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 85vh;
+  background-position: 10vh -28vh;
+  max-width: 100%;
+  width: 100%;
+  background-image: url(../../../public/heroNewNewNew.png);
+  background-size: 90%;
+  background-repeat: no-repeat;
+}
+
+.hero div {
+  font-size: 164px;
+  font-family: Karantina, sans-serif;
+  text-shadow: -2px 2px 4px #000;
+}

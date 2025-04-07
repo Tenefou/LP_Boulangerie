@@ -4,5 +4,27 @@
   flex-direction: row;
   align-items: center;
   padding: 0px;
-  background-color: #333;
+  background-color: var(--background-color);
+}
+
+.navbar__links {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px;
+  gap: 48px;
+}
+
+.navbar__logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 48px;
+  color: var(--text-color);
+}
+
+#Button {
+  background-color: aquamarine;
 }
