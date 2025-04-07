@@ -64,6 +64,12 @@ h1 {
   font-size: 60px;
 }
 
+h2 {
+  font-family: "Inria Sans", sans-serif;
+  color: var(--texte-color);
+  font-size: 48px;
+}
+
 h3 {
   font-family: "Inria Sans", sans-serif;
   color: var(--texte-color);
