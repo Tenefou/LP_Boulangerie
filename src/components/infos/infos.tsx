@@ -50,7 +50,7 @@ const Infos: React.FC = () => {
       <div>
         <img
           style={{ width: "300px", borderRadius: "15px" }}
-          src="public/soupex.png"
+          src="/soupex.png"
           alt="carte"
         />
       </div>

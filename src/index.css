@@ -2,8 +2,6 @@
 @import "tw-animate-css";
 
 :root {
-  margin-bottom: 10vh;
-
   --primary-color: #d65037;
   --secondary-color: #ece1dbf5;
   --background-color: #fff5f0;

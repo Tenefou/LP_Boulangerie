@@ -8,8 +8,7 @@
   background-color: var(--secondary-color);
   border-radius: var(--border-radius);
   box-shadow: var(--box-shadow);
-  padding-left: 5vh;
-  padding-right: 5vh;
+  padding: 3vh;
 }
 
 .infos__container {
