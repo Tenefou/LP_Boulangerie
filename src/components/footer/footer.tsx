@@ -6,12 +6,14 @@ const Footer: React.FC = () => {
     <>
       <div className="footer_container">
         <div className="footer__texte">
-          <h2>CONTACT</h2>
+          <h2>CONTACT :</h2>
           <h3>boulangerie.soupex@gmail.com</h3>
         </div>
         <div className="footer__texte">
           <h2>RESEAUX SOCIAUX :</h2>
-          <img src="/logos_contact.png" alt="sfqf" className="paddding" />
+          <div className="padding">
+            <img src="/logos_contact.png" alt="sfqf" />
+          </div>
         </div>
       </div>
     </>
